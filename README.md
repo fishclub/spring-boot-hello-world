@@ -26,7 +26,8 @@ Before you begin, ensure you have met the following requirements:
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository
+
    ```sh
    git clone https://github.com/Abhishake63/spring-boot-hello-world.git
    ```
@@ -36,6 +37,7 @@ To get a local copy of the project up and running, follow these steps:
    ```sh
    cd helloworld
    ```
+
 3. Build the project and Run the application
 
    ```sh
