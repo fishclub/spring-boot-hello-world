@@ -69,8 +69,3 @@ This project is licensed under the [MIT License](LICENSE).
 Happy coding!
 
 For more information about Spring Boot, visit the [official documentation](https://spring.io/projects/spring-boot).
-
-
-
-
-
